@@ -63,7 +63,7 @@ export default function Home() {
                 textAlign: "center",
                 fontWeight: "600",
                 color: "purple",
-                textTransform: "uppercase",
+                //textTransform: "uppercase",
               }}
               >
                 To Do List
